@@ -71,7 +71,7 @@
 </table>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusSrp&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=MatheusSrp&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=MatheusSrp&column=7&no-frame=true&no-bg=true" />
+    <img width="800" src="https://github-profile-trophy-winning.vercel.app/?username=MatheusSrp&column=7&no-frame=true&no-bg=true" />
   </a>
 </p>
 
