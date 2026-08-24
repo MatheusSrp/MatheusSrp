@@ -21,6 +21,15 @@
 - 📫 Contato: **matheusngv@gmail.com**
 - 📄 Experiências: [LinkedIn](https://www.linkedin.com/in/matheus-nascimento-vaz/)
 
+<p align="left">
+  <a href="mailto:matheusngv@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-nascimento-vaz/" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
 ---
 
 ### 🚀 Projetos em destaque
@@ -50,14 +59,37 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusSrp&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSrp&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-stats-extended.vercel.app/api?username=MatheusSrp&show_icons=true&hide_border=true" alt="GitHub stats" />
+    </td>
+    <td>
+      <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MatheusSrp&layout=compact&hide_border=true" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusSrp&hide_border=true" alt="GitHub streak" />
 </p>
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=MatheusSrp&column=7&no-frame=true&no-bg=true" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Visitantes do perfil</b></h3>
+  <img src="https://profile-counter.glitch.me/MatheusSrp/count.svg" alt="Número de visitantes no perfil" />
+</div>
 
 ---
 
