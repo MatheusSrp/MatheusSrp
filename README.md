@@ -76,16 +76,6 @@
 
 ---
 
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img width="800" src="https://github-profile-trophy-winning.vercel.app/?username=MatheusSrp&column=7&no-frame=true&no-bg=true" />
-  </a>
-</p>
-
----
-
 <div align="center">
   <h3><b>📍 Visitantes do perfil</b></h3>
   <img src="https://profile-counter.glitch.me/MatheusSrp/count.svg" alt="Número de visitantes no perfil" />
